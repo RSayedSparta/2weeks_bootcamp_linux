@@ -18,8 +18,9 @@
 - Exit from nano `control x` then `y` then endter
 - list all `ls -a` or `ls`
 - To see the content of the file on the terminal `cat file_name`
+- Clear your screen `clear`
 
 #### Task 1
 
 To remove a file to comand needed is rm `file name`
-- Clear your screen `clear`
+
