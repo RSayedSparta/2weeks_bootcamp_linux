@@ -23,5 +23,5 @@
 
 #### Task 1
 
-To remove a file to comand needed is rm `file name`
+To remove a file to comand needed is `rm file name`
 
