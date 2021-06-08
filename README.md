@@ -2,13 +2,14 @@
 
 ## Introduction to DevOps and why DevOps/benefits
 
--
--
--
--
--
+- Using CI/CD for efficient delivery
+- Collaborative working making issues or successes visible to the team
+- Engagement with the team to resole issues faster
+- Skill improvement,working with a range of people on other parts of the project
+- High quality deliverables as continuous refinments are being made for every sprint
 
 ### Linux commands that also work on Bash
+
 - Create a Dir `mkdir name_of_the_dr`
 - Go inside the Dir `cd name of the dir`
 - Come out of the Dir `cd ..` or `cd`
