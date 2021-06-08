@@ -4,8 +4,8 @@
 
 - Using CI/CD for efficient delivery
 - Collaborative working making issues or successes visible to the team
-- Engagement with the team to resole issues faster
-- Skill improvement,working with a range of people on other parts of the project
+- Engagement with the team to resolve issues faster
+- Skill improvement, working with a range of people on other parts of the project will allow for new skills to be picked up or improve on current skills
 - High quality deliverables as continuous refinments are being made for every sprint
 
 ### Linux commands that also work on Bash
